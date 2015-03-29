@@ -1,0 +1,1 @@
+Mostly a testbed for eve technologies. Plans to integrate eve api, inventory db, and eve central pricing.
